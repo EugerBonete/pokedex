@@ -2,8 +2,8 @@ import React from "react";
 
 const Layout = ({ children }) => {
   return (
-    <div className='container'>
-      <nav className='nav'>
+    <div className="container">
+      <nav className="nav">
         <h1>Pokedex</h1>
       </nav>
       {children}
